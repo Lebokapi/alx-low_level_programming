@@ -1,10 +1,9 @@
-#include <stdio.h>
+#include<stdio.h>
 /**
- * main - sends a formatted string to  the standard output
- *
- * Return: 0 if it is succesfull 
- */
-
+* main - Entry point
+*
+* Return: Always 0 (Success)
+*/
 int main(void)
 {
 	printf("with proper grammar, but the outcome is a piece of art,\n");
