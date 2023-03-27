@@ -1,2 +1,1 @@
-# alx-low_level_programming
-Hello World C
+0x05. C - Pointers, arrays and strings
